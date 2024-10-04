@@ -8,8 +8,8 @@ module.exports = {
   daisyui: {
     themes: [
       {
-        mytheme: {
-          "primary": "#a991f7",
+        carDoctorThem: {
+          "primary": "#640D5F",
           "secondary": "#f6d860",
           "accent": "#37cdbe",
           "neutral": "#3d4451",
@@ -17,7 +17,7 @@ module.exports = {
         },
       },
       "dark",
-      "cupcake",
+      "light",
     ],
   },
   plugins: [
